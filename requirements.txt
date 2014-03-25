@@ -1,0 +1,14 @@
+Flask==0.10.1
+Flask-Login==0.2.10
+Flask-SQLAlchemy==1.0
+Flask-WTF==0.9.5
+Flask-WhooshAlchemy==0.55
+Jinja2==2.7.2
+MarkupSafe==0.19
+SQLAlchemy==0.9.3
+WTForms==1.0.5
+Werkzeug==0.9.4
+Whoosh==2.6.0
+WhooshAlchemy==0.1.4
+blinker==1.3
+itsdangerous==0.23
